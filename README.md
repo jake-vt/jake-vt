@@ -4,6 +4,7 @@
 I've spent the last 7 months learning to code & build products whilst travelling (see timeline below).
 
 My repos are mainly pet projects for the sake of learning, but bigger things are coming :)
+
 ![Summary of activities Sep '22 - Jun '23](https://github.com/jake-vt/jake-vt/assets/33576202/9c7534c7-1d9e-4afc-948f-f0f0277d18e5)
 
 ## Repo Guide
