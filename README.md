@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-## Bio & Timeline
-I've spent the last 7 months learning to code & build products whilst travelling (see timeline below).
-
-My repos are mainly pet projects for the sake of learning, but bigger things are coming :)
-
-![Summary of activities Sep '22 - Jun '23](https://github.com/jake-vt/jake-vt/assets/33576202/9c7534c7-1d9e-4afc-948f-f0f0277d18e5)
+A business analyst that sometimes codes
 
 ## Repo Guide
 - **Code exercises:**
@@ -17,8 +12,8 @@ My repos are mainly pet projects for the sake of learning, but bigger things are
   -  TBC 
 
 ## Q & A 
-- 🔭 **Currently working on:** Web apps & LLM integrations
+- 🔭 **Most interested in:** Web apps w/ LLM integrations
 - 🌱 **Currently learning:** React
-- 📫 **How to reach me:** jacobthompson2525@gmail.com
+- 📫 **How to reach me:** jacobvaisey@gmail.com
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I walked the entire north coast of spain in 2020 (then proceeded to lose all the photos from it!)
